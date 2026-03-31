@@ -18,7 +18,7 @@ git clone https://github.com/hsungo/ASCII_Player.git
 cd ASCII_Player
 make build
 ```
-* #### Player Usage
+* #### ASCII Player Usage
 ```bash
 # run ascii player with picture
 ./ascii_player test.JPG
